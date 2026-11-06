@@ -1,0 +1,6 @@
+fast-alpr
+opencv-python
+pillow
+paho-mqtt
+onnxruntime
+RPi.GPIO
